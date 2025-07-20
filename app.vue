@@ -1,5 +1,7 @@
 <template>
-  <div class="mt-20">
-    My Title
+  <div>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
